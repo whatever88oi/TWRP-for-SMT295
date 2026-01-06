@@ -1,6 +1,7 @@
 # TWRP for samsung galaxy tab A 8' 2019 (SM-T295) gto lte
 
 $ heimdall flash --RECOVERY recovery_a.img --no-reboot
+
 $ heimdall flash --RECOVERY recovery_b.img --no-reboot
 
 *if the second flash of recovery_b.img got :
